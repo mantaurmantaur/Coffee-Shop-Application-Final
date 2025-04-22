@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="COFFEE_SHOP_APPLICATION.generalClass">
+    <Position X="0.5" Y="2.5" Width="1.75" />
+    <NestedTypes>
+      <Class Name="COFFEE_SHOP_APPLICATION.generalClass.OrderData">
+        <TypeIdentifier>
+          <NewMemberFileName>generalClass.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="COFFEE_SHOP_APPLICATION.generalClass.OrderItem">
+        <TypeIdentifier>
+          <NewMemberFileName>generalClass.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>CAAAIBAAACAAsAsogQBAAAgQAACAAAAABgIAAFAgACQ=</HashCode>
+      <FileName>generalClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COFFEE_SHOP_APPLICATION.products">
+    <Position X="4" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>products.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COFFEE_SHOP_APPLICATION.Menus">
+    <Position X="3.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COFFEE_SHOP_APPLICATION.ordering">
+    <Position X="3.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ordering.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COFFEE_SHOP_APPLICATION.payment">
+    <Position X="3.5" Y="4.5" Width="2" />
+    <NestedTypes>
+      <Class Name="COFFEE_SHOP_APPLICATION.payment.OrderItem" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>payment.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="COFFEE_SHOP_APPLICATION.payment.OrderDetails" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>payment.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAIAgAAAAAAAAAAAACAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>payment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COFFEE_SHOP_APPLICATION.profile">
+    <Position X="5.75" Y="2.75" Width="1.5" />
+    <NestedTypes>
+      <Class Name="COFFEE_SHOP_APPLICATION.profile.Reward" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>profile.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAAAAAAgAAAAAIBAAAAAAA=</HashCode>
+      <FileName>profile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COFFEE_SHOP_APPLICATION.CUSTOMER.History">
+    <Position X="9.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEABAAAAACQAABBACQDABAACAAAAAQAAAAAQAAkAAAE=</HashCode>
+      <FileName>CUSTOMER\History.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COFFEE_SHOP_APPLICATION.CUSTOMER.Menu">
+    <Position X="11" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAABACAAEDAAEBGAAAACAAAAIAAAAAAEAQAACAA=</HashCode>
+      <FileName>CUSTOMER\Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COFFEE_SHOP_APPLICATION.CUSTOMER.OrderingGuest">
+    <Position X="12.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAASAAADBBAgSAIAACIAAAAAAgAAAAARJBAAA=</HashCode>
+      <FileName>CUSTOMER\OrderingGuest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COFFEE_SHOP_APPLICATION.CUSTOMER.PaymentGuest">
+    <Position X="14.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gQAAAIWCAiAAARACAACAAAhCBAA4AAAAACEECSBIAQA=</HashCode>
+      <FileName>CUSTOMER\Payment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COFFEE_SHOP_APPLICATION.CUSTOMER.Profile">
+    <Position X="16.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAACiogChAJgIChBQACAAA4ACBAAGAAAQBAAAI=</HashCode>
+      <FileName>CUSTOMER\Profile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COFFEE_SHOP_APPLICATION.Program">
+    <Position X="1.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COFFEE_SHOP_APPLICATION.DashboardAdmin">
+    <Position X="0.75" Y="10.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAQAAAAAAAAAAAAAAACAAAAAAAE=</HashCode>
+      <FileName>DashboardAdmin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COFFEE_SHOP_APPLICATION.FRONTPAGES.floatScreen">
+    <Position X="18.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACCAAARAAACAAAACAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>FRONTPAGES\floatScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COFFEE_SHOP_APPLICATION.FRONTPAGES.logupo">
+    <Position X="20" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIQgEkiKQkEBQBAACCBQADOMADQCAkAABAgBBIEBA=</HashCode>
+      <FileName>FRONTPAGES\logupo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COFFEE_SHOP_APPLICATION.ADMIN.Customers">
+    <Position X="22.25" Y="2" Width="1.5" />
+    <NestedTypes>
+      <Class Name="COFFEE_SHOP_APPLICATION.ADMIN.Customers.TopCustomer" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ADMIN\Customers.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAACEAAhAAAAKAAAACAAgAgAAAAAAAAAQEACA=</HashCode>
+      <FileName>ADMIN\Customers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COFFEE_SHOP_APPLICATION.ADMIN.Dashboard">
+    <Position X="24" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAATAACUBgBBEAACAQAgCAQABAQAKAAQYgSgAAgo=</HashCode>
+      <FileName>ADMIN\Dashboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COFFEE_SHOP_APPLICATION.ADMIN.MainMenu">
+    <Position X="25.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAICAgIZAUEACAAAACFICYAAAAAwAAARJIAAA=</HashCode>
+      <FileName>ADMIN\MainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COFFEE_SHOP_APPLICATION.ADMIN.Products">
+    <Position X="27.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gBAkAEAAAiAAABRUgACARICCUIACIAAAsIBCgwCBBEE=</HashCode>
+      <FileName>ADMIN\Products.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COFFEE_SHOP_APPLICATION.ADMIN.Staffs">
+    <Position X="29.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQIEAEEAACAABBAAgACgQAACUAAAAgAAlABQwACIhAA=</HashCode>
+      <FileName>ADMIN\Staffs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COFFEE_SHOP_APPLICATION.GUEST.Ordering">
+    <Position X="31.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAASAAADBBAgCAYAACCAAAAAAgAAAAARBBAAA=</HashCode>
+      <FileName>GUEST\Ordering.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COFFEE_SHOP_APPLICATION.STAFFS.Cashier">
+    <Position X="33.75" Y="2" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="COFFEE_SHOP_APPLICATION.STAFFS.Cashier.OrderItem" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>STAFFS\Cashier.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="COFFEE_SHOP_APPLICATION.STAFFS.Cashier.OrderDetails" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>STAFFS\Cashier.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="COFFEE_SHOP_APPLICATION.STAFFS.Cashier.OrderManager" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>STAFFS\Cashier.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>1wBhYxkEk2AAARlCAYjAQIRSsEJJAAGAAUkUAUBMQAM=</HashCode>
+      <FileName>STAFFS\Cashier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COFFEE_SHOP_APPLICATION.STAFFS.changePassStaff">
+    <Position X="35.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIQgEEgCAgEBAAAACAAAACGAABAAAgBQBAAABIAAA=</HashCode>
+      <FileName>STAFFS\changePassStaff.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COFFEE_SHOP_APPLICATION.STAFFS.Kitchen">
+    <Position X="37.5" Y="2" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>gEAoQAEkpWAAQBAQBBCAQQAKEAA4AAABQgAECQhIQAM=</HashCode>
+      <FileName>STAFFS\Kitchen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COFFEE_SHOP_APPLICATION.UserControls.canceOrder">
+    <Position X="40" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAACEAAAAIIACACAACAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>UserControls\canceOrder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COFFEE_SHOP_APPLICATION.UserControls.ongoingorders">
+    <Position X="41.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAACEAAASEQABAIIACACAACAAAAAAAAAAAAEQAAAAA=</HashCode>
+      <FileName>UserControls\ongoingorders.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COFFEE_SHOP_APPLICATION.UserControls.pastOrders">
+    <Position X="43.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAACAAAACEQABAIIACBCAACAAAAAIAAAAIAEQAAAAA=</HashCode>
+      <FileName>UserControls\pastOrders.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COFFEE_SHOP_APPLICATION.UserControls.paymentconsole">
+    <Position X="45.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAACAAAAAAAACAAAACAAAYQAAAAEAQAAAEAAA=</HashCode>
+      <FileName>UserControls\paymentconsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COFFEE_SHOP_APPLICATION.points">
+    <Position X="47.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACgAAAAAAACAAAACAAAIAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>UserControls\points.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

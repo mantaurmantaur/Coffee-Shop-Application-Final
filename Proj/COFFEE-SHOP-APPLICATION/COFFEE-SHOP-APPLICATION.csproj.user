@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ADMIN\Customers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ADMIN\Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ADMIN\MainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ADMIN\Products.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ADMIN\Staffs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CUSTOMER\History.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CUSTOMER\Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CUSTOMER\OrderingGuest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CUSTOMER\Payment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CUSTOMER\Profile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FRONTPAGES\logupo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FRONTPAGES\floatScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUEST\Ordering.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="STAFFS\changePassStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControls\canceOrder.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\points.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="STAFFS\Cashier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="STAFFS\Kitchen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControls\ongoingorders.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\pastOrders.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\paymentconsole.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
